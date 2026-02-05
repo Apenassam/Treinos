@@ -1,0 +1,15 @@
+{
+  "name": "Treino da Sam",
+  "short_name": "TreinoSam",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f8cdda",
+  "theme_color": "#e91e63",
+  "icons": [
+    {
+      "src": "capa.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
